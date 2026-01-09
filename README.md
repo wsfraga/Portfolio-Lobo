@@ -1,6 +1,6 @@
 # 🐺 Portfolio Lobo
 
-🔗 **Acesse o site:** https://wsfraga.github.io/portfolio-lobo/
+🔗 **Acesse o site:** https://wsfraga.github.io/Portfolio-Lobo/
 
 ## 🖼️ Preview
 ![Preview do Portfolio Lobo](img/preview.png)
